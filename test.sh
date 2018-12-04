@@ -1,0 +1,1 @@
+for i in $(seq 1 $1) ; do scripts/stt.sh ; sleep 1 ; done
